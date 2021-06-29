@@ -1,1 +1,1 @@
-# password-manager-cli-client
+# password-manager-CLI-client
